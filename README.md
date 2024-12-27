@@ -16,7 +16,7 @@ This mini-project consisted of two parts:
 
 ## Part 1: File Management
 
-Create a C program that does the following:
+A C program that does the following:
 
 1. Accepts user input.
 2. Displays file content.
@@ -27,7 +27,7 @@ Create a C program that does the following:
 
 ## Part 2: Process Creation and Management
 
-Create a C program that demonstrates various process API calls.
+A C program that demonstrates various process API calls.
 
 ### Tasks
 
@@ -38,9 +38,3 @@ Create a C program that demonstrates various process API calls.
 ### File Structure
 
 - `processManagement.c`: Contains the implementation for process management.
-
-## Error Handling
-
-- Ensure system calls are successful. If not, display an error message and exit the program.
-- Ensure the file is successfully created and opened for writing. If not, display an error message.
-- Handle invalid commands by prompting the user with an appropriate message.
